@@ -6,6 +6,4 @@ This project helped me enhance my skills in Python programming and gain practica
 
 Learn more about the project: https://hyperskill.org/projects/109
 
-Here's the link to the project: https://hyperskill.org/projects/109
-
 Check out my profile: https://hyperskill.org/profile/591204401
